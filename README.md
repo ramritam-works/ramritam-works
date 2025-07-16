@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi there, I'm Ramritam Sarkar
 
-<!--
-**ramritam-works/ramritam-works** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring Developer passionate about Machine Learning and Web Development
 
-Here are some ideas to get you started:
+🎓 I hold a Diploma from NIELIT and am currently pursuing my B.Tech at TIT.
+💻 I love building smart and interactive solutions that blend intelligence with elegant design.
+🔧 Tech Stack:
+    1. Languages: Python, C, HTML, CSS, JavaScript
+    2. Database: MySQL (basic knowledge)
+    3. Fields of Interest: Machine Learning, Frontend/Backend Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always learning, always building.
+Let’s connect and grow together!
